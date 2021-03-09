@@ -339,7 +339,7 @@ input[type="button"] {
     .header-background-img
     {
         
-        background-image: url('/Images/background.svg');
+        background-image: url('./Images/background.svg');
     }
 
  
