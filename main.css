@@ -381,7 +381,7 @@ font-size: 12px;
 
 .project-article.one
 {
-    width: 290px;
+    width: 280px;
 }
 }
 @media(max-width: 400px)
@@ -397,8 +397,5 @@ font-size: 12px;
          width: 250px
      }
 
-.project-article.one
-{
-    width: 220px;
-}
+
 }
